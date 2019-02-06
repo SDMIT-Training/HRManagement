@@ -1,0 +1,33 @@
+Multiple Struts configuration files
+BeanFactory vs ApplicationContext
+Struts 2 + Spring Integration Example
+Struts 2 - File Uploads
+how to block an url using java program
+scope of bean in spring
+difference-between-spring-mvc-and-struts-mvc
+spring bean configuration file
+spring file upload example
+explain-why-constructor-inject-is-better-than-other-options
+spring-framework-xml-vs-annotations
+design-patterns-being-used-in-spring.html
+difference-opensession-getcurrentsession-hibernate/
+joins in hibernate
+log4j-core/dependency-info
+struts-2-spring-integration-example
+
+https://en.wikipedia.org/wiki/Veera_Narayana_Temple,_Belavadihttp://temple-of-secrets.blogspot.in/2011/11/shree-sadashiva-rudra-temple-surya.html
+
+http://temple-of-secrets.blogspot.in/2011/11/shree-mukti-naga-temple-ramohalli-big.html
+
+
+http://www.codejava.net/java-se/jdbc/java-connecting-to-mongodb-database-examples
+
+
+http://www.mkyong.com/mongodb/java-mongodb-hello-world-example/
+
+https://avaldes.com/connecting-to-mongodb-using-jdbc/
+
+https://www.journaldev.com/3963/mongodb-java-crud-example-tutorial
+
+search url:
+https://www.google.co.in/search?q=jdbc+connection+with+mongodb&oq=jdbc+with+mong&aqs=chrome.2.0j69i57j0l4.6610j0j7&sourceid=chrome&ie=UTF-8
